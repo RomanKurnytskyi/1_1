@@ -31,7 +31,7 @@ namespace DelegatEx1
                 min = Func(x);
             return min;
         }
-
+        jfejffkhjjsdfjkfkjefksdflffvf
 
 
 
