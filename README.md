@@ -31,7 +31,7 @@ namespace DelegatEx1
                 min = Func(x);
             return min;
         }
-        jfejffkhjjsdfjkfkjefksdflffvf
+        
 
 
 
@@ -65,6 +65,7 @@ namespace DelegatEx1
                 }
                 Console.WriteLine(max);
                 Console.WriteLine(min);
+                Console.WriteLine("Hello my friend!!!")
                 Console.ReadKey();
             }
 
