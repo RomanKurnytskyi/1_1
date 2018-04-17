@@ -65,8 +65,7 @@ namespace DelegatEx1
                 }
                 Console.WriteLine(max);
                 Console.WriteLine(min);
-                Console.WriteLine("Hello my friend!!!")
-                Console.ReadKey();
+                
             }
 
         }
